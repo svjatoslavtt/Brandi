@@ -1,2 +1,2 @@
 # Brandi
-Сайт визитка (Landing). Использовалиь: Sass, Css, Html, Bootstrap, JavaScript, JQuery.
+Сайт визитка (Landing). Использовалиь: Sass, Css, Html, Bootstrap3, JavaScript, JQuery.
